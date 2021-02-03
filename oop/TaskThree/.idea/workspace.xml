@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906e47ee-abd0-4223-9474-c61fd647ae9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TaskOne/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskOne/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TaskOne/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskOne/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1nzAsUxcf2dk1gmZrtV0l4GbsCP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,9 +33,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TaskOne" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
+    <configuration name="ShapeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itacademy.java.oop.basics.ShapeApplication" />
+      <module name="TaskThree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itacademy.java.oop.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -49,6 +60,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShapeApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,6 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612382754654</updated>
       <workItem from="1612382755909" duration="341000" />
+      <workItem from="1612388363259" duration="374000" />
+      <workItem from="1612389099966" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="OOP Task 3">
       <created>1612382877533</created>
