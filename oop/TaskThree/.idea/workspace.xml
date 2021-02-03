@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="906e47ee-abd0-4223-9474-c61fd647ae9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/Square.java" afterDir="false" />
-    </list>
+    <list default="true" id="906e47ee-abd0-4223-9474-c61fd647ae9a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +72,7 @@
       <updated>1612382754654</updated>
       <workItem from="1612382755909" duration="341000" />
       <workItem from="1612388363259" duration="374000" />
-      <workItem from="1612389099966" duration="300000" />
+      <workItem from="1612389099966" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="OOP Task 3">
       <created>1612382877533</created>
