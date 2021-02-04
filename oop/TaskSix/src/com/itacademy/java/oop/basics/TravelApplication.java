@@ -4,7 +4,7 @@ public class TravelApplication {
 
     public static class TravelManager {
 
-        public Family changeDestination(Family family, TravelDestination destination) {
+        public static Family changeDestination(Family family, TravelDestination destination) {
             if(family.getTravelDestination() == destination) {
                 return family;
             } else {
@@ -13,7 +13,7 @@ public class TravelApplication {
             }
         }
 
-        public void travel(Family family) {
+        public static void travel(Family family) {
             double carTravelDistance = family.getVehicle().maxTravelDistance();
             double destinationDistance = family.getTravelDestination().getDistance();
             if(carTravelDistance >= destinationDistance) {
@@ -25,7 +25,7 @@ public class TravelApplication {
             }
         }
 
-        public void printFamilyMembers(Family family) {
+        public static void printFamilyMembers(Family family) {
             for (Person person: family.getPeople()) {
                 System.out.println(person);
             }
@@ -33,7 +33,7 @@ public class TravelApplication {
     }
 
     public static void main(String[] args) {
-        TravelManager manager = new TravelManager();
+//        TravelManager manager = new TravelManager();
         Person john = new Person("John", "Doe", Gender.MALE, 35);
         Person jane = new Person("Jane", "Doe", Gender.FEMALE, 33);
         Person bob = new Person("Bob", "Jones", Gender.MALE, 28);
@@ -44,12 +44,12 @@ public class TravelApplication {
         TravelDestination alytus = new TravelDestination("Alytaus rajonas", "Alytus", 86.00);
         Family doe = new Family(new Person[]{john,jane}, mini, alytus);
         Family jones = new Family(new Person[]{bob, sam}, fiat, alytus);
-        manager.printFamilyMembers(doe);
+        TravelManager.printFamilyMembers(doe);
         System.out.println(doe);
         System.out.println(jones);
-        manager.changeDestination(jones, klaipeda);
+        TravelManager.changeDestination(jones, klaipeda);
         System.out.println(jones);
-        manager.travel(doe);
-        manager.travel(jones);
+        TravelManager.travel(doe);
+        TravelManager.travel(jones);
     }
 }
