@@ -33,7 +33,6 @@ public class TravelApplication {
     }
 
     public static void main(String[] args) {
-//        TravelManager manager = new TravelManager();
         Person john = new Person("John", "Doe", Gender.MALE, 35);
         Person jane = new Person("Jane", "Doe", Gender.FEMALE, 33);
         Person bob = new Person("Bob", "Jones", Gender.MALE, 28);
