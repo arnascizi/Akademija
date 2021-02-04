@@ -5,12 +5,10 @@ public class TravelApplication {
     public static class TravelManager {
 
         public static Family changeDestination(Family family, TravelDestination destination) {
-            if (family.getTravelDestination() == destination) {
-                return family;
-            } else {
+            if (family.getTravelDestination() != destination) {
                 family.setTravelDestination(destination);
-                return family;
             }
+            return family;
         }
 
         public static void travel(Family family) {
