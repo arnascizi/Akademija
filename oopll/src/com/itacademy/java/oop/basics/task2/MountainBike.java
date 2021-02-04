@@ -1,6 +1,6 @@
 package com.itacademy.java.oop.basics.task2;
 
-public class MountainBike implements Bycicle {
+public class MountainBike implements Bicycle {
 
     private int gear;
     private int speed;

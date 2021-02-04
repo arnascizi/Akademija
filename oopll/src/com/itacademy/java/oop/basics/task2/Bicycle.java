@@ -1,6 +1,6 @@
 package com.itacademy.java.oop.basics.task2;
 
-public interface Bycicle {
+public interface Bicycle {
 
     void changeGear(int newGear);
 
