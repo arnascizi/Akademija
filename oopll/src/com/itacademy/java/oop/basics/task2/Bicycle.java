@@ -6,5 +6,5 @@ public interface Bicycle {
 
     void speedUp(int increment);
 
-    void applyBrakes();
+    void applyBrakes(int decrement);
 }
