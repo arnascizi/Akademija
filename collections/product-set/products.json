@@ -1,0 +1,501 @@
+[{
+  "productId": "7021ac69aefce18c37467886f3dbdc281a85f612",
+  "productName": "Spoon - Soup, Plastic",
+  "saleDate": "2019-02-07T21:54:17Z",
+  "amount": "5.75"
+}, {
+  "productId": "3fcc71c5f425b8fc71a61eb0acf94ca1638489c9",
+  "productName": "Beer - Guiness",
+  "saleDate": "2018-12-17T22:44:09Z",
+  "amount": "7.57"
+}, {
+  "productId": "eac555a0b449d5a77474871499a91533d2eaf83a",
+  "productName": "Lid - 3oz Med Rec",
+  "saleDate": "2019-08-18T18:46:18Z",
+  "amount": "1.42"
+}, {
+  "productId": "839c661264b1d14bf866f3bbee01df9c15d055d5",
+  "productName": "Wine - Pinot Grigio Collavini",
+  "saleDate": "2018-10-31T02:13:57Z",
+  "amount": "9.48"
+}, {
+  "productId": "f7f85c7c78f94455a3bccabaf84fbfc2970d07cd",
+  "productName": "Cheese - Montery Jack",
+  "saleDate": "2019-07-09T07:11:48Z",
+  "amount": "2.71"
+}, {
+  "productId": "e63e0fd9565610d0bdd3a974d934896b558b464a",
+  "productName": "Pasta - Canelloni, Single Serve",
+  "saleDate": "2019-08-19T15:45:26Z",
+  "amount": "7.18"
+}, {
+  "productId": "af7f4cae0be8feee31635623fa8772563a531d5b",
+  "productName": "Lettuce - Romaine, Heart",
+  "saleDate": "2019-03-14T23:42:49Z",
+  "amount": "9.59"
+}, {
+  "productId": "7a2515bd03c59d318182b2fecea4d39c934d50c1",
+  "productName": "Pasta - Spaghetti, Dry",
+  "saleDate": "2019-07-19T08:07:02Z",
+  "amount": "2.74"
+}, {
+  "productId": "81c920dd341e4940bc718305a7dc4cd7fd6ba087",
+  "productName": "Eggs - Extra Large",
+  "saleDate": "2019-08-12T21:57:51Z",
+  "amount": "1.95"
+}, {
+  "productId": "6bad4e42fc06b24796b7918d708bd12bdc8da655",
+  "productName": "Jello - Assorted",
+  "saleDate": "2019-04-28T06:34:17Z",
+  "amount": "8.39"
+}, {
+  "productId": "741d686e6dea0c51b0b637159d2ba57cc2511753",
+  "productName": "Wine - Vidal Icewine Magnotta",
+  "saleDate": "2019-08-07T06:13:19Z",
+  "amount": "4.91"
+}, {
+  "productId": "3fcc71c5f425b8fc71a61eb0acf94ca1638489c9",
+  "productName": "Beer - Guiness",
+  "saleDate": "2019-08-17T23:00:04Z",
+  "amount": "8.15"
+}, {
+  "productId": "793ef3a5454fa2e7cfb47132900115b4a4f9091a",
+  "productName": "Flour Dark Rye",
+  "saleDate": "2019-01-04T06:52:38Z",
+  "amount": "4.56"
+}, {
+  "productId": "3fcc71c5f425b8fc71a61eb0acf94ca1638489c9",
+  "productName": "Beer - Guiness",
+  "saleDate": "2019-07-02T20:46:37Z",
+  "amount": "9.00"
+}, {
+  "productId": "3dc227a630606cb5186e7e901f595658d8ededd9",
+  "productName": "Lime Cordial - Roses",
+  "saleDate": "2019-05-14T03:20:05Z",
+  "amount": "9.68"
+}, {
+  "productId": "e6546f4b7b7d3b27b5a08f20fd94b845f36bce07",
+  "productName": "Pork - Bacon, Double Smoked",
+  "saleDate": "2019-04-25T08:39:19Z",
+  "amount": "0.31"
+}, {
+  "productId": "3759a9d4eec93f46367804b58dde39ff725e1a26",
+  "productName": "Cheese - Cheddar, Medium",
+  "saleDate": "2018-12-09T00:44:06Z",
+  "amount": "6.05"
+}, {
+  "productId": "c97548b8242f39d69b98385c3ee06aa141147c22",
+  "productName": "Pepper - Paprika, Hungarian",
+  "saleDate": "2019-03-23T00:24:41Z",
+  "amount": "4.71"
+}, {
+  "productId": "daeceb5fac7d2b096047729aa63e0b2dfa3265ab",
+  "productName": "Beef - Tender Tips",
+  "saleDate": "2019-09-15T14:53:12Z",
+  "amount": "7.71"
+}, {
+  "productId": "607d97c47ec446fb9505804128243a9494e28aec",
+  "productName": "Lamb - Shoulder",
+  "saleDate": "2019-08-24T02:52:53Z",
+  "amount": "9.90"
+}, {
+  "productId": "b04b7d4b3c6869c1f4873aa9a74da14c36eb55c6",
+  "productName": "Sugar - Brown",
+  "saleDate": "2019-07-10T22:03:59Z",
+  "amount": "4.85"
+}, {
+  "productId": "fa8529bd1a4828520e8f644f4061775541520f23",
+  "productName": "Soup - Campbellschix Stew",
+  "saleDate": "2019-09-06T12:48:01Z",
+  "amount": "2.64"
+}, {
+  "productId": "e166938db64ed1d43d7193d1f7945bd17840bba2",
+  "productName": "Soho Lychee Liqueur",
+  "saleDate": "2019-04-07T12:12:03Z",
+  "amount": "3.70"
+}, {
+  "productId": "e32a3226ff726ea1328231fdfae95c2732ee36be",
+  "productName": "Lotus Leaves",
+  "saleDate": "2019-03-26T12:19:48Z",
+  "amount": "4.58"
+}, {
+  "productId": "98f8c6d4f743cdf341da55f9579c90feafc5acd0",
+  "productName": "Cheese - Grie Des Champ",
+  "saleDate": "2019-07-23T17:56:06Z",
+  "amount": "4.74"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-10-16T02:49:04Z",
+  "amount": "9.05"
+}, {
+  "productId": "3303305a5b13f40ce32e67e1f18130e24bf98d0c",
+  "productName": "Shrimp - Black Tiger 13/15",
+  "saleDate": "2018-11-10T07:36:35Z",
+  "amount": "2.71"
+}, {
+  "productId": "249ab2f42e28a54968dabcd5850fd93e5ae2714f",
+  "productName": "Soup V8 Roasted Red Pepper",
+  "saleDate": "2019-08-23T23:54:40Z",
+  "amount": "8.30"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-10-08T09:04:24Z",
+  "amount": "3.79"
+}, {
+  "productId": "8029183cdabcc397c59d200e570debe79196ddb7",
+  "productName": "Langers - Mango Nectar",
+  "saleDate": "2019-02-05T19:26:08Z",
+  "amount": "6.24"
+}, {
+  "productId": "e35d8069fadcc04ed0e71c8b6b9f5cca17ec3112",
+  "productName": "Mushroom - Enoki, Fresh",
+  "saleDate": "2019-06-28T01:34:45Z",
+  "amount": "0.21"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-06-25T05:24:46Z",
+  "amount": "9.57"
+}, {
+  "productId": "9160687310598828d45a2ba522d64c046ecf521d",
+  "productName": "Bread - Focaccia Quarter",
+  "saleDate": "2019-05-30T19:29:37Z",
+  "amount": "4.03"
+}, {
+  "productId": "77ad72546e18539aee9d2916db88f8f9fa67ca0f",
+  "productName": "Table Cloth 120 Round White",
+  "saleDate": "2019-02-18T21:23:45Z",
+  "amount": "7.44"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-05-10T20:32:11Z",
+  "amount": "4.30"
+}, {
+  "productId": "792feb47d1f4bc8adef1db5f51b02d0086c3d64a",
+  "productName": "Plastic Arrow Stir Stick",
+  "saleDate": "2019-06-17T01:31:56Z",
+  "amount": "9.75"
+}, {
+  "productId": "a2d9207d8f0f12b7f61753ce12739c4d08a1f65b",
+  "productName": "Zucchini - Yellow",
+  "saleDate": "2019-06-12T03:02:38Z",
+  "amount": "1.94"
+}, {
+  "productId": "60ed1e0554548e7dc4d1bc7386dca597f509e813",
+  "productName": "Bagelers - Cinn / Brown Sugar",
+  "saleDate": "2018-11-09T16:10:31Z",
+  "amount": "0.44"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-07-25T18:49:30Z",
+  "amount": "4.18"
+}, {
+  "productId": "70000b6ebc04bd78a940bd74c96d62820a1fa51f",
+  "productName": "Wine - Stoneliegh Sauvignon",
+  "saleDate": "2019-08-26T02:25:01Z",
+  "amount": "3.85"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2018-10-30T22:54:35Z",
+  "amount": "8.60"
+}, {
+  "productId": "f19a3f78406b793f0042812198348021e9d69827",
+  "productName": "Piping Jelly - All Colours",
+  "saleDate": "2019-07-30T14:07:50Z",
+  "amount": "5.52"
+}, {
+  "productId": "9138040b2d666e63c134f8ad8ab1e1ecc3fb1758",
+  "productName": "Tray - Foam, Square 4 - S",
+  "saleDate": "2019-07-02T00:45:28Z",
+  "amount": "9.00"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-04-07T05:45:41Z",
+  "amount": "2.24"
+}, {
+  "productId": "c277f408d742b26b4890c830993ba4f652549afe",
+  "productName": "Energy - Boo - Koo",
+  "saleDate": "2019-07-23T14:06:44Z",
+  "amount": "5.59"
+}, {
+  "productId": "46d3cd03e2795a476f81c271ac5c2dd029f122b5",
+  "productName": "Beans - Green",
+  "saleDate": "2019-05-19T14:39:24Z",
+  "amount": "5.45"
+}, {
+  "productId": "a3e24e159b43838ea5cc880848425bd3659670e9",
+  "productName": "Tarts Assorted",
+  "saleDate": "2019-07-21T07:47:55Z",
+  "amount": "5.67"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-03-26T18:15:46Z",
+  "amount": "9.24"
+}, {
+  "productId": "22f001f0e7cf6452a85abba904760b633b7473f8",
+  "productName": "Compound - Raspberry",
+  "saleDate": "2018-11-26T20:37:15Z",
+  "amount": "3.24"
+}, {
+  "productId": "2d4a0583a9e53306062e7a7b29330d50cf88e65c",
+  "productName": "Wine - Magnotta - Pinot Gris Sr",
+  "saleDate": "2019-07-19T22:54:30Z",
+  "amount": "5.55"
+}, {
+  "productId": "d10bf16b83f4ecbc4bbb6dd791388b5f096570b7",
+  "productName": "English Muffin",
+  "saleDate": "2019-06-23T23:30:05Z",
+  "amount": "4.40"
+}, {
+  "productId": "546b0a0a28b735a22902d6c36f2d64585eee0852",
+  "productName": "Cheese - Comtomme",
+  "saleDate": "2019-07-11T02:39:22Z",
+  "amount": "5.68"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-09-28T08:33:56Z",
+  "amount": "1.32"
+}, {
+  "productId": "e165d7bc19835aceb20a5593765aef0b2697e004",
+  "productName": "Bok Choy - Baby",
+  "saleDate": "2019-07-11T19:44:37Z",
+  "amount": "9.64"
+}, {
+  "productId": "1aecf221c7b8275ca9b0c9c1c1c71474a80314f1",
+  "productName": "Wine - Red, Cooking",
+  "saleDate": "2019-01-20T15:53:16Z",
+  "amount": "0.51"
+}, {
+  "productId": "21f0744b9c19a031199b6855174e6e1fb93081f6",
+  "productName": "Lamb Tenderloin Nz Fr",
+  "saleDate": "2019-05-25T15:35:51Z",
+  "amount": "2.37"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-10-21T18:15:37Z",
+  "amount": "4.07"
+}, {
+  "productId": "9000990b3a57728924fdd68094bcc16404b260f3",
+  "productName": "Peppercorns - Pink",
+  "saleDate": "2019-03-15T21:17:23Z",
+  "amount": "6.07"
+}, {
+  "productId": "b2df4066d59f2227437e69e4869adc10ea5d9b84",
+  "productName": "Ecolab - Power Fusion",
+  "saleDate": "2019-06-14T15:48:45Z",
+  "amount": "0.70"
+}, {
+  "productId": "e2806b6a7bdcea5300cb943fd614a66f65517768",
+  "productName": "Mushroom - Morel Frozen",
+  "saleDate": "2019-05-11T13:42:50Z",
+  "amount": "2.17"
+}, {
+  "productId": "d885d76f2c01717dde658a6843ec2e7fcb43ba8c",
+  "productName": "Juice - Grape, White",
+  "saleDate": "2019-08-06T20:52:45Z",
+  "amount": "4.23"
+}, {
+  "productId": "8e9a32691fe8f4c229811bd16df1011e9c2bc9ed",
+  "productName": "Gherkin",
+  "saleDate": "2019-04-27T07:25:53Z",
+  "amount": "0.12"
+}, {
+  "productId": "0b0bcac4335a9fe1b6bfb7027da438e1fc3e452e",
+  "productName": "Shiro Miso",
+  "saleDate": "2019-03-04T11:59:30Z",
+  "amount": "6.98"
+}, {
+  "productId": "5caccc81e4cdcd02bcfc088cfc75e325dade985f",
+  "productName": "Wine - Gewurztraminer Pierre",
+  "saleDate": "2019-08-04T06:54:31Z",
+  "amount": "0.62"
+}, {
+  "productId": "34bfe10aa46654fc4101e1d1b3a5e3adb9b01935",
+  "productName": "Fruit Salad Deluxe",
+  "saleDate": "2018-12-31T01:26:18Z",
+  "amount": "1.57"
+}, {
+  "productId": "f3e11ead3c6df7f7b617762289ee461fdbcb5cbc",
+  "productName": "Rum - Light, Captain Morgan",
+  "saleDate": "2019-10-18T09:22:46Z",
+  "amount": "6.00"
+}, {
+  "productId": "3f7802d22cd1b3b78e0dfceaa7f35a28c4ec2d6d",
+  "productName": "Shopper Bag - S - 4",
+  "saleDate": "2018-11-12T03:18:55Z",
+  "amount": "2.77"
+}, {
+  "productId": "1185d60477694aa90d99b5b3e0182a51783c544d",
+  "productName": "Cup - Paper 10oz 92959",
+  "saleDate": "2018-12-15T12:48:17Z",
+  "amount": "7.19"
+}, {
+  "productId": "5361f87d5ddc943475cf6fbc13360c698a00b7f7",
+  "productName": "Wine - Semi Dry Riesling Vineland",
+  "saleDate": "2019-01-31T05:45:27Z",
+  "amount": "0.44"
+}, {
+  "productId": "6f58950901043ec5ed6c6363fe30f748ae87881e",
+  "productName": "Towel Multifold",
+  "saleDate": "2019-08-15T18:08:09Z",
+  "amount": "3.28"
+}, {
+  "productId": "e329a2f88185c5615a07141645208634b5818db3",
+  "productName": "Pepper - Black, Crushed",
+  "saleDate": "2019-10-10T03:27:37Z",
+  "amount": "3.70"
+}, {
+  "productId": "41a3e9a856c5e7fa88c3afb88ef5d306ac7b7042",
+  "productName": "Blueberries",
+  "saleDate": "2019-08-20T01:38:23Z",
+  "amount": "5.32"
+}, {
+  "productId": "839c661264b1d14bf866f3bbee01df9c15d055d5",
+  "productName": "Wine - Pinot Grigio Collavini",
+  "saleDate": "2018-11-22T10:15:19Z",
+  "amount": "6.12"
+}, {
+  "productId": "839c661264b1d14bf866f3bbee01df9c15d055d5",
+  "productName": "Wine - Pinot Grigio Collavini",
+  "saleDate": "2019-03-16T12:54:48Z",
+  "amount": "3.43"
+}, {
+  "productId": "df5d3db41ad58c26e23ff08ced28cdaa02a7eac6",
+  "productName": "Pork - Smoked Kassler",
+  "saleDate": "2018-11-17T08:49:53Z",
+  "amount": "0.71"
+}, {
+  "productId": "839c661264b1d14bf866f3bbee01df9c15d055d5",
+  "productName": "Wine - Pinot Grigio Collavini",
+  "saleDate": "2019-07-01T01:58:23Z",
+  "amount": "0.44"
+}, {
+  "productId": "18e7f1381ea0fa421bb0c10d37e34eec2f63e45b",
+  "productName": "Squash - Acorn",
+  "saleDate": "2019-10-14T12:29:41Z",
+  "amount": "3.81"
+}, {
+  "productId": "be56fc0b842a7c41b33c1a2843f7b37fa121a33f",
+  "productName": "Milk - 1%",
+  "saleDate": "2019-05-29T16:02:48Z",
+  "amount": "5.86"
+}, {
+  "productId": "839c661264b1d14bf866f3bbee01df9c15d055d5",
+  "productName": "Wine - Pinot Grigio Collavini",
+  "saleDate": "2019-06-27T23:28:42Z",
+  "amount": "1.88"
+}, {
+  "productId": "a4a67093a5b5ee32bff34b69c3dbaaac9045ca37",
+  "productName": "Rum - Mount Gay Eclipes",
+  "saleDate": "2019-09-10T14:51:11Z",
+  "amount": "6.34"
+}, {
+  "productId": "a534bcad2db2c31333c1bff586adde48e5981e63",
+  "productName": "Beef - Tongue, Cooked",
+  "saleDate": "2019-08-12T21:10:36Z",
+  "amount": "4.72"
+}, {
+  "productId": "839c661264b1d14bf866f3bbee01df9c15d055d5",
+  "productName": "Wine - Pinot Grigio Collavini",
+  "saleDate": "2019-09-20T03:19:02Z",
+  "amount": "3.88"
+}, {
+  "productId": "6dd9717184961248aac523b6025c7443f171e6a8",
+  "productName": "Longos - Chicken Wings",
+  "saleDate": "2019-07-20T02:43:16Z",
+  "amount": "1.78"
+}, {
+  "productId": "92aa7611d33ab477d6ef6cece85d9f632fab7f19",
+  "productName": "Milk - 2%",
+  "saleDate": "2019-04-12T22:04:26Z",
+  "amount": "1.34"
+}, {
+  "productId": "6fcf9f0927dd94a6dbe0dc7da178e8f26c3be680",
+  "productName": "Gherkin - Sour",
+  "saleDate": "2019-02-19T11:27:23Z",
+  "amount": "9.32"
+}, {
+  "productId": "92b434cc7ad1ba80c35e7b11e3719babbca9c014",
+  "productName": "Mustard - Seed",
+  "saleDate": "2019-08-10T23:33:05Z",
+  "amount": "5.62"
+}, {
+  "productId": "839c661264b1d14bf866f3bbee01df9c15d055d5",
+  "productName": "Wine - Pinot Grigio Collavini",
+  "saleDate": "2019-08-27T02:54:09Z",
+  "amount": "0.96"
+}, {
+  "productId": "c824ca484411f139b466c82fb6d6fcb85f26128e",
+  "productName": "Wine - Sicilia Igt Nero Avola",
+  "saleDate": "2019-09-21T18:48:12Z",
+  "amount": "3.76"
+}, {
+  "productId": "839c661264b1d14bf866f3bbee01df9c15d055d5",
+  "productName": "Wine - Pinot Grigio Collavini",
+  "saleDate": "2019-08-21T04:11:22Z",
+  "amount": "4.67"
+}, {
+  "productId": "c4665579ec29b4217b71058797a2f93bc37e6242",
+  "productName": "Lettuce - Red Leaf",
+  "saleDate": "2019-04-23T18:19:03Z",
+  "amount": "0.10"
+}, {
+  "productId": "7573c96dcee9021dd45f0c0de9a2db8567c62adf",
+  "productName": "Monkfish Fresh - Skin Off",
+  "saleDate": "2019-06-24T01:24:03Z",
+  "amount": "4.92"
+}, {
+  "productId": "fe8492340c795551c35714b26e6f7232b7386982",
+  "productName": "Mangostein",
+  "saleDate": "2019-02-02T08:58:03Z",
+  "amount": "7.09"
+}, {
+  "productId": "0596e78d3e2cc535a9f052e1d50cbcec8a86491b",
+  "productName": "Tea - Lemon Green Tea",
+  "saleDate": "2019-08-15T09:16:00Z",
+  "amount": "3.62"
+}, {
+  "productId": "19669ac5a2bd3b8cd7c09c16366dadbfacf1b686",
+  "productName": "Jam - Apricot",
+  "saleDate": "2018-12-26T14:44:24Z",
+  "amount": "0.07"
+}, {
+  "productId": "176907e534852a2bb00461413378b9246e214849",
+  "productName": "Puree - Raspberry",
+  "saleDate": "2019-04-12T16:13:05Z",
+  "amount": "6.78"
+}, {
+  "productId": "49a706f3a9ce88fec86c0d9f66f1203f2b6853ae",
+  "productName": "Coffee Caramel Biscotti",
+  "saleDate": "2019-03-11T11:56:21Z",
+  "amount": "5.28"
+}, {
+  "productId": "a33193363c440e4a2e0d6192d07d48bb9714027b",
+  "productName": "Dome Lid Clear P92008h",
+  "saleDate": "2019-07-09T07:18:37Z",
+  "amount": "4.16"
+}, {
+  "productId": "48a300ad1b6c1349e7d23aff2bc1326e77681187",
+  "productName": "Sole - Iqf",
+  "saleDate": "2019-01-25T03:34:02Z",
+  "amount": "8.43"
+}, {
+  "productId": "a47321092de707c78c0e93ea45d11ca730d59f8a",
+  "productName": "Wine - Prosecco Valdobienne",
+  "saleDate": "2018-10-29T16:35:03Z",
+  "amount": "4.98"
+}, {
+  "productId": "135ce3fd1070b9db5054ae9a793c78e638e8ff62",
+  "productName": "Beets",
+  "saleDate": "2019-09-23T21:48:03Z",
+  "amount": "4.40"
+}]
