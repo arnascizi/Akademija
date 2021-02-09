@@ -1,5 +1,8 @@
 package com.itacademy.java.oop.basics.Task3;
 
+import com.itacademy.java.oop.basics.Task3.exceptions.NotEnoughBalanceException;
+import com.itacademy.java.oop.basics.Task3.exceptions.NotEnoughCreditException;
+
 public class DebitCard extends Card {
 
 
@@ -8,12 +11,17 @@ public class DebitCard extends Card {
     }
 
     @Override
-    double credit() {
-        return 0;
+    void credit(double amount) throws NotEnoughCreditException {
+        throw new NotEnoughCreditException("You cannot credit your Debit Card!");
     }
 
     @Override
-    double debit(double amount) {
-        return 0;
+    void debit(double amount) throws NotEnoughBalanceException {
+        if ((getBalance() - amount) < 0) {
+            throw new NotEnoughBalanceException("Insufficient funds. You can't withdraw: " + amount +
+                    ". You can withdraw: " + getBalance());
+        } else {
+            balance -= amount;
+        }
     }
 }

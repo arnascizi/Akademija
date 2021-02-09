@@ -1,5 +1,7 @@
 package com.itacademy.java.oop.basics.Task3;
 
+import com.itacademy.java.oop.basics.Task3.exceptions.NotEnoughCreditException;
+
 public class CreditCard extends Card {
 
     private double interest;
@@ -20,14 +22,21 @@ public class CreditCard extends Card {
     }
 
     @Override
-    double credit() {
-        return 0;
+    void credit(double amount) throws NotEnoughCreditException {
+        if (amount > getCredit() || Math.abs(getBalance() - amount) > getCredit()) {
+            throw new NotEnoughCreditException("You have reached your credit limit! ");
+        } else {
+            balance -= amount;
+            System.out.println("You have credited: " + amount);
+        }
     }
 
     @Override
-    double debit(double amount) {
-        return 0;
+    void debit(double amount) throws NotEnoughCreditException {
+        if (amount > getBalance() && getBalance() < 0) {
+            credit(amount);
+        } else {
+            balance -= amount;
+        }
     }
-
-    
 }

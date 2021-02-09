@@ -1,8 +1,11 @@
 package com.itacademy.java.oop.basics.Task3;
 
+import com.itacademy.java.oop.basics.Task3.exceptions.NotEnoughBalanceException;
+import com.itacademy.java.oop.basics.Task3.exceptions.NotEnoughCreditException;
+
 public abstract class Card {
 
-    private double balance;
+    protected double balance;
     private String cardHolderName;
     private String cardNumber;
 
@@ -24,7 +27,7 @@ public abstract class Card {
         return cardNumber;
     }
 
-    abstract double credit();
+    abstract void credit(double amount) throws NotEnoughCreditException, NotEnoughBalanceException;
 
-    abstract double debit(double amount);
+    abstract void debit(double amount) throws NotEnoughCreditException, NotEnoughBalanceException;
 }
