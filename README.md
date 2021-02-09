@@ -21,7 +21,7 @@
 
 > - [Task 1](https://github.com/arnascizi/Akademija/tree/master/oopll/src/com/itacademy/java/oop/basics/task1 "Task 1") - Shape Application --done
 > - [Task 2](https://github.com/arnascizi/Akademija/tree/master/oopll/src/com/itacademy/java/oop/basics/task2 "Task 2") - Bicycle Application --done
-> - [Task 3](https://github.com/arnascizi/Akademija/tree/master/oopll/src/com/itacademy/java/oop/basics/task3 "Task 3") - ATM Application --in progress
+> - [Task 3](https://github.com/arnascizi/Akademija/tree/master/oopll/src/com/itacademy/java/oop/basics/task3 "Task 3") - ATM Application --done
 
 ---
 
