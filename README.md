@@ -1,12 +1,12 @@
 # Swedbank IT Academy
 
-#### [02.02 - Java Basics](https://github.com/arnascizi/Akademija/tree/master/JavaBasics "Day 1 - Java Basics")
+#### [02.02 - Java Basics](https://github.com/arnascizi/Akademija/tree/master/JavaBasics "Lecture 1 - Java Basics")
 
 > Variables, control statements, operators, arithmetic functions. --done
 
 ---
 
-#### [02.03 - OOP I](https://github.com/arnascizi/Akademija/tree/master/oop "Day 2 - OOP I")
+#### [02.03 - OOP I](https://github.com/arnascizi/Akademija/tree/master/oop "Lecture 2 - OOP I")
 
 > - [Task 1](https://github.com/arnascizi/Akademija/tree/master/oop/TaskOne "Task 1") - Employee Manager --done
 > - [Task 2](https://github.com/arnascizi/Akademija/tree/master/oop/TaskTwo "Task 2") - Loans Application --done
@@ -17,7 +17,7 @@
 
 ---
 
-#### [02.04 - OOP II](https://github.com/arnascizi/Akademija/tree/master/oopll "Day 3 - OOP II")
+#### [02.04 - OOP II](https://github.com/arnascizi/Akademija/tree/master/oopll "Lecture 3 - OOP II")
 
 > - [Task 1](https://github.com/arnascizi/Akademija/tree/master/oopll/src/com/itacademy/java/oop/basics/task1 "Task 1") - Shape Application --done
 > - [Task 2](https://github.com/arnascizi/Akademija/tree/master/oopll/src/com/itacademy/java/oop/basics/task2 "Task 2") - Bicycle Application --done
@@ -25,8 +25,7 @@
 
 ---
 
-
-#### [02.05 - Collections](https://github.com/arnascizi/Akademija/tree/master/collections "Day 4 - Collections")
+#### [02.05 - Collections](https://github.com/arnascizi/Akademija/tree/master/collections "Lecture 4 - Collections")
 
 > - [Task 1](https://github.com/arnascizi/Akademija/tree/master/collections/poem "Task 1") - Poem --done
 > - [Task 2](https://github.com/arnascizi/Akademija/tree/master/collections/poem-with-numbers "Task 2") - Poem with numbers --done
