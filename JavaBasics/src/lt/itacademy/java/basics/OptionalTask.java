@@ -37,34 +37,22 @@ public class OptionalTask {
     }
 
     //Optional Task Two
-    private static long characterRepeat(int stringLenght, String letters) {
-        String subLetters = letters.substring(0, stringLenght);
-        return subLetters.chars().filter(ch -> ch == 'a').count();
+    private static long characterRepeat(int stringLength, String letters) {
+        int result = 0;
+        for (int i = 0; i < letters.length(); i++) {
+            if (letters.charAt(i) == 'a') {
+                result++;
+            }
+        }
+        int tail = 0;
+        for (int i = 0; i < stringLength % letters.length(); i++) {
+            if (letters.charAt(i) == 'a') {
+                tail++;
+            }
+        }
+        result = (result * (stringLength / letters.length())) + tail;
+        return result;
     }
-
-//    public class Optional {
-//        public static void main(String[] args) {
-//            long n = 1000000000000L;
-//            String s = "a";
-//            System.out.println(countLetter(n, s));
-//        }
-//        private static long countLetter(long n, String s) {
-//            int result = 0;
-//            for (int i = 0; i < s.length(); i++) {
-//                if (s.charAt(i) == 'a') {
-//                    result++;
-//                }
-//            }
-//            int tail = 0;
-//            for (int i = 0; i < n % s.length(); i++) {
-//                if (s.charAt(i) == 'a') {
-//                    tail++;
-//                }
-//            }
-//            result = (result * (n / s.length())) + tail;
-//            return result;
-//        }
-//    }
 
     //Optional Task Three
     private static void calculateStringValues(String x, String y) {
