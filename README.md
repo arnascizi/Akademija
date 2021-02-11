@@ -2,7 +2,7 @@
 
 #### [02.02 - Java Basics](https://github.com/arnascizi/Akademija/tree/master/JavaBasics "Lecture 1 - Java Basics")
 
-> Variables, control statements, operators, arithmetic functions. --done
+> Get to know lecture. Includes several tasks that involves working with variables, control statements, arithmetic functions, operators ect. --done
 
 ---
 
