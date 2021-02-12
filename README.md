@@ -46,7 +46,7 @@
 
 ---
 
-#### [02.10 - Advanced OOP](https://github.com/arnascizi/Akademija/tree/master/AdvOop "Lecture 7 - Advanced OOP")
+#### [02.10 - Advanced OOP](https://github.com/arnascizi/Akademija/tree/master/AdvOop/customer-app "Lecture 7 - Advanced OOP")
 
 > * Customer Application -- done
 
