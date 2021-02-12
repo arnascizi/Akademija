@@ -41,7 +41,7 @@
 
 ---
 
-#### [02.09 - Unit Tests](https://github.com/arnascizi/Akademija/tree/master/testing "Lecture 6 - Unit Tests")
+#### [02.09 - Unit Tests](https://github.com/arnascizi/Akademija/tree/master/testing/src/test/java/clean "Lecture 6 - Unit Tests")
 
 > * Written tests for Clean package.
 
