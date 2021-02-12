@@ -34,7 +34,7 @@
 
 ---
 
-#### [02.08 - Clean Code] (https://github.com/arnascizi/Akademija "Lecture 5 - Clean Code")
+#### [02.08 - Clean Code](https://github.com/arnascizi/Akademija "Lecture 5 - Clean Code")
 
 > * TODO --Rewrite calculator app by applying Clean code principles.
 > * TODO --Optional: Write unit tests.
