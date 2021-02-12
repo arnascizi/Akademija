@@ -33,3 +33,16 @@
 > - [Task 4](https://github.com/arnascizi/Akademija/tree/master/collections/product-map "Task 4") - Product map --done
 
 ---
+
+#### [02.08 - Clean Code]( "Lecture 5 - Collections")
+
+---
+
+#### [02.09 - Unit Tests]( "Lecture 6 - Unit Tests")
+
+---
+
+
+#### [02.10 - Advanced OOP](https://github.com/arnascizi/Akademija/tree/master/AdvOop "Lecture 7 - Advanced OOP")
+
+---
