@@ -34,15 +34,16 @@
 
 ---
 
-#### [02.08 - Clean Code]( "Lecture 5 - Collections")
+#### [02.08 - Clean Code]( "Lecture 5 - Clean Code")
 
-> * TODO
+> * TODO --Rewrite calculator app by applying Clean code principles.
+> * TODO --Optional: Write unit tests.
 
 ---
 
-#### [02.09 - Unit Tests]( "Lecture 6 - Unit Tests")
+#### [02.09 - Unit Tests](https://github.com/arnascizi/Akademija/tree/master/testing"Lecture 6 - Unit Tests")
 
-> * TODO
+> * Written tests for Clean package.
 
 ---
 
