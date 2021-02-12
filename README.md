@@ -36,13 +36,18 @@
 
 #### [02.08 - Clean Code]( "Lecture 5 - Collections")
 
+> * TODO
+
 ---
 
 #### [02.09 - Unit Tests]( "Lecture 6 - Unit Tests")
 
+> * TODO
+
 ---
 
-
 #### [02.10 - Advanced OOP](https://github.com/arnascizi/Akademija/tree/master/AdvOop "Lecture 7 - Advanced OOP")
+
+> * Customer Application -- done
 
 ---
