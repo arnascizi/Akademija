@@ -1,0 +1,5 @@
+<div class="row">
+  <ng-container *ngFor="let post of posts | async">
+    <app-post *ngIf="post.img" class="col-12 col-md-6" [post]="post"></app-post>
+  </ng-container>
+</div>

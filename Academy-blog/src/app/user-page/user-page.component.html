@@ -1,0 +1,5 @@
+<app-user-details [user]="user$ | async"></app-user-details>
+<ng-container *ngIf="comments$ | async as comments">
+  <h4>Comments by this user</h4>
+  <app-comment-list [comments]="comments"></app-comment-list>
+</ng-container>

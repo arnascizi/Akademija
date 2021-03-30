@@ -1,0 +1,58 @@
+<form [formGroup]="newPostForm" (submit)="submitForm()">
+  <div class="form-group">
+    <label for="author">Author</label>
+    <input
+      class="form-control"
+      id="author"
+      type="text"
+      formControlName="author"
+    />
+    <div [hidden]="author.valid || author.pristine">
+      <div *ngIf="author.errors?.pattern">Only alphabetical characters</div>
+      <div *ngIf="author.errors?.required">Author is required.</div>
+      <div *ngIf="author.errors?.blockedName">Author is blocked.</div>
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="title">Post Title</label>
+    <input
+      class="form-control"
+      id="title"
+      type="text"
+      formControlName="title"
+    />
+    <div [hidden]="title.valid || title.pristine">
+      <div *ngIf="title.errors?.required">Post Title is required.</div>
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="content">Post Content</label>
+    <input
+      class="form-control"
+      id="content"
+      type="text"
+      formControlName="content"
+    />
+    <div>
+      You have {{ remainingChars | async }}/{{ maxContentValue }} characters
+      remaining
+    </div>
+    <div [hidden]="content.valid || content.pristine">
+      <div *ngIf="content.errors?.required">Post Content is required.</div>
+      <div *ngIf="content.errors?.minlength">Post Content too short.</div>
+      <div *ngIf="content.errors?.explicitLanguage">
+        Explicit language used in post:
+        {{ content.errors?.explicitLanguage.words }}
+      </div>
+    </div>
+  </div>
+  <button class="btn btn-primary">Submit!</button>
+  <button class="btn btn-secondary" type="button" (click)="reset()">
+    Reset!
+  </button>
+  <div [hidden]="newPostForm.pristine || newPostForm.valid">
+    <div *ngIf="newPostForm.errors?.authorNameInEmail">
+      Using the authors name in the title is prohibited by GDPR
+    </div>
+  </div>
+</form>

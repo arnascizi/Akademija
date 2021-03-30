@@ -1,0 +1,14 @@
+<div class="media">
+  <img [src]="author.img" alt="{{ author.firstName }} {{ author.lastName }}" />
+  <div class="media-body">
+    <h4>
+      <a [routerLink]="['/authors', author.id]"
+      >{{ author.firstName }} {{ author.lastName }}</a
+      >
+    </h4>
+    <p>{{ author.about }}</p>
+    <div>Company: {{ author.company }}</div>
+    <div>Email: {{ author.email }}</div>
+  </div>
+</div>
+<br>

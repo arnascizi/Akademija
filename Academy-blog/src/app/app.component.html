@@ -1,0 +1,15 @@
+<app-navbar
+  [menuItems]="menuItems"
+  [categories]="categories$ | async"></app-navbar>
+
+<div class="container">
+  <div class="row">
+    <div class="col-3">
+      <app-recent-posts></app-recent-posts>
+      <app-most-viewed-posts></app-most-viewed-posts>
+    </div>
+    <div class="col-9">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,4 @@
+<h2>The most viewed posts:</h2>
+<ng-container *ngIf="posts$ | async as posts">
+  <app-post-list [posts]="posts"></app-post-list>
+</ng-container>

@@ -1,0 +1,13 @@
+<ng-container *ngIf="category$ | async as category">
+  <h3>{{ category.title }}</h3>
+  <img [src]="category.img" [alt]="category.title" class="img-fluid" />
+  <p>{{ category.description }}</p>
+  <h6>Tags:</h6>
+  <ul>
+    <li *ngFor="let tag of category.tags">{{ tag }}</li>
+  </ul>
+  <ng-container *ngIf="posts$ | async as posts">
+    <h4>Posts in this category</h4>
+    <app-post-list [posts]="posts"></app-post-list>
+  </ng-container>
+</ng-container>

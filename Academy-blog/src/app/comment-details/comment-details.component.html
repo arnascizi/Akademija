@@ -1,0 +1,13 @@
+<div class="card-body border-bottom border-light">
+  <div class="media d-block d-md-flex mt-4">
+    <div class="media-body text-center text-md-left ml-md-3 ml-0">
+      <div class="card-title font-weight-bold" *ngIf="user$ | async as user">
+        {{ user.firstName }} {{ user.lastName }}
+        <span class="float-right">
+          <small class="text-muted">{{ comment.created | date}}</small>
+        </span>
+      </div>
+      <p>{{ comment.content }}</p>
+    </div>
+  </div>
+</div>

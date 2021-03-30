@@ -1,0 +1,12 @@
+<div class="media">
+  <img [src]="user.img" alt="{{ user.firstName }} {{ user.lastName }}" />
+  <div class="media-body">
+    <h4>
+      <a [routerLink]="['/users', user.id]"
+      >{{ user.firstName }} {{ user.lastName }}</a
+      >
+    </h4>
+    <div>Email: {{ user.email }}</div>
+  </div>
+</div>
+<br>

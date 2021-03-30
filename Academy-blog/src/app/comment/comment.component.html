@@ -1,0 +1,13 @@
+<div class="card">
+  <button
+    class="card-header font-weight-bold navbar-toggler"
+    type="button" data-toggle="collapse"
+    data-target="#commentmenu">
+    ({{comments.length}}) Comments
+  </button>
+  <div class="collapse navbar-collapse" id="commentmenu">
+    <app-comment-list [comments]="comments"></app-comment-list>
+  </div>
+</div>
+<app-new-comment></app-new-comment>
+
