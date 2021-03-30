@@ -59,9 +59,8 @@
 
 ---
 
+#### [02.16 - 03.02 - Front End Stream](https://github.com/arnascizi/Akademija/tree/master/Academy-blog "Front End tasks - academy blog")
 
-#### [02.16 - 03.02 - Front End Stream](https://github.com/arnascizi/Akademija/tree/master/itacademy-blog "Front End tasks - academy blog")
-
-> * Front End Tasks - It Academy blog -- TODO
+> * Front End Tasks - It Academy blog --in progress
 
 ---
