@@ -53,9 +53,15 @@
 
 ---
 
-
-#### [02.15 - Spring I](https://github.com/arnascizi/Akademija/tree/master/spring/demo-server "Lecture 8 - Spring I")
+#### [02.15 - Spring](https://github.com/arnascizi/Akademija/tree/master/spring/demo-server "Lecture 8 - Spring I")
 
 > * Demo Server - simple Spring Boot CRUD api -- done
+
+---
+
+
+#### [02.16 - 03.02 - Front End Stream](https://github.com/arnascizi/Akademija/tree/master/itacademy-blog "Front End tasks - academy blog")
+
+> * Front End Tasks - It Academy blog -- TODO
 
 ---
